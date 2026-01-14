@@ -1,1 +1,1 @@
-console.log("Olá, Mundo, começando!");
+console.log("Olá, Mundo da tecnologia, estou começando!");
